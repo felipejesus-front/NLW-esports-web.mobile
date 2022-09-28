@@ -44,14 +44,17 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 -   [Yarn](https://yarnpkg.com) or Npm
 -   [VSCode](https://code.visualstudio.com)
 -   [Git Bash](https://gitforwindows.org/)
-    > Frontend Web
+
+> Frontend Web
 -   [ReactJS](https://reactjs.org)
 -   [Vite](https://vitejs.dev/)
 -   [Tailwindcss](https://tailwindcss.com/)
-    > Frontend Mobile
+
+> Frontend Mobile
 -   [React Native](https://reactnative.dev/)
 -   [Radix-UI](https://www.radix-ui.com/)
-    > Backend
+
+> Backend
 -   [NodeJS](https://nodejs.org/en/)
 -   [Express](https://expressjs.com/pt-br/)
 -   [Prisma](https://www.prisma.io/)
