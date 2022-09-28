@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Logo NLW eSports" src="https://github.com/felipejesus-front/NLW-esports-web.mobile/blob/main/web/src/assets/logo-nlw-esports.svg" />
+	<img alt="Logo NLW eSports" src="https://github.com/felipejesus-front/NLW-esports-web.mobile/blob/main/web/src/assets/Logo.svg" />
 </h1>
 
 <h3 align="center">
