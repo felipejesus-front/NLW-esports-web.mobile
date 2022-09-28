@@ -61,6 +61,11 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
+O layout recriado nesse projeto foi cedido pela propria NLW e pode ser baixado no endereço:
+https://github.com/felipejesus-front/NLW-esports-web.mobile/raw/main/NLW-eSports-Design
+
+
+
 ## ℹ️ How To Use
 
 ```bash
